@@ -21,7 +21,11 @@ Welcome to MyPortfolioProjects-1! This repository serves as my first portfolio, 
 
 I am Aboubacar AhmedMaouloud, with MA in Applied Mathematics and Data Sciences a passionate data enthusiast with a sufficient background in Python and SQL. Through MyPortfolioProjects-1, I aim to showcase my skills and journey into the world of data analysis and visualization. 
 
+## Contact Me
+
 You are welcome to establish professional connections with me through [LinkedIn](#www.linkedin.com/in/aboubacar-ahmed-maouloud-3b403b188) 
+
+I'm open to collaboration opportunities and would love to discuss any projects or ideas you have!
 
 ---
 
