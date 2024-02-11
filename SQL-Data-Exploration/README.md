@@ -21,8 +21,8 @@ Several SQL queries analyze COVID-19 statistics, such as total cases, total deat
 ### 5. Comparing Infection and Death Rates
 Further analysis compares infection and death rates across countries and continents. SQL queries identify countries and continents with the highest infection rates and death rates compared to population size.
 
-### 6. Global COVID-19 Trends
-Finally, global COVID-19 trends are explored through SQL queries. These queries calculate total population infected, total population death, and death percentage worldwide. Additionally, vaccination data is integrated to analyze total population vaccinated and vaccination trends over time.
+### 6. Global COVID Trends
+Finally, global COVID trends are explored through SQL queries. These queries calculate total population infected, total population death, and death percentage worldwide. Additionally, vaccination data is integrated to analyze total population vaccinated and vaccination trends over time.
 
 ---
 Authored by Aboubacar AhmedMaouloud.
