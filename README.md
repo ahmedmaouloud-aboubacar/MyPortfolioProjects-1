@@ -13,13 +13,14 @@ Welcome to MyPortfolioProjects-1! This repository serves as my first portfolio, 
 
 ## Projects Included
 
-1. SQL Data Exploration And Tableau Visualization :Conducted thorough exploration of data using SQL and created visualizations using Tableau for clear insights.
-2. Data Cleaning In SQL: Employed SQL techniques to clean and preprocess raw data for analysis, ensuring data quality and accuracy.
-3. Correlation in Python:Utilized Python to analyze correlation between variables in a dataset, providing insights into relationships among data attributes.
+###### 1. SQL Data Exploration: Conducted thorough exploration of data using SQL
+###### 2. Tableau Visualization: Visualizations using Tableau for clear insights.
+###### 3. Data Cleaning In SQL: Employed SQL techniques to clean and preprocess raw data for analysis, ensuring data quality and accuracy.
+###### 4. Correlation in Python:  Utilized Python to analyze correlation between variables in a dataset, providing insights into relationships among data attributes.
 
 ## About the Author
 
-I am Aboubacar AhmedMaouloud, with MA in Applied Mathematics and Data Sciences a passionate data enthusiast with a sufficient background in Python and SQL. Through MyPortfolioProjects-1, I aim to showcase my skills and journey into the world of data analysis and visualization. 
+I am Aboubacar AhmedMaouloud, a data enthusiast with MA in Applied Mathematics and Data Sciences a passionate data enthusiast with a sufficient background in Python and SQL. Through MyPortfolioProjects-1, I aim to showcase my skills and journey into the world of data analysis and visualization. 
 
 ## Contact Me
 
