@@ -2,9 +2,7 @@
 
 ## Introduction
 
-Welcome to # COVID 19 Data Exploration Project This is my first project focuses on practicing Data Analyst, this portfolio project inspired by tutorials from "Alex the Analyst" YouTube channel. 
-In this project we use SQL Server to explore global COVID 19 data.
-The primary objective is to strengthen SQL skills and gain hands-on experience in data exploration and analysis.
+Welcome to the #COVID19 Data Exploration Project, an inaugural endeavor aimed at honing skills in the realm of Data Analysis. This portfolio initiative draws inspiration from tutorials provided by the "Alex the Analyst" YouTube channel. Employing SQL Server as the foundational tool, this project delves into the exploration of global COVID-19 data. The principal aim is to fortify proficiency in SQL techniques while concurrently fostering practical proficiency in the realms of data exploration and analysis.
 
 ## Project Tasks
 ### 1.Setting up PortfolioProject Database & Importing Tables
